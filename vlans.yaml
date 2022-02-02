@@ -10,3 +10,5 @@ network:
         vlan_id: 20
       - name: sean
         vlan_id: 60
+      - name: andrius
+        vlan_id: 70
