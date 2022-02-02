@@ -1,20 +1,18 @@
 ---
-network:
-  vars:
-    net_vlan_config:
-      - name: desktops
-        vlan_id: 5
-      - name: servers
-        vlan_id: 10
-      - name: dmz
-        vlan_id: 20
-      - name: andrius
-        vlan_id: 70
-      - name: lexi
-        vlan_id: 80
-      - name: george
-        vlan_id: 1000
-      - name: larry
-        vlan_id: 1234
-      - name: asdf
-        vlan_id: 4000
+net_vlan_config:
+  - name: desktops
+    vlan_id: 5
+  - name: servers
+    vlan_id: 10
+  - name: dmz
+    vlan_id: 20
+  - name: andrius
+    vlan_id: 70
+  - name: lexi
+    vlan_id: 80
+  - name: george
+    vlan_id: 1000
+  - name: larry
+    vlan_id: 1234
+  - name: asdf
+    vlan_id: 4000
