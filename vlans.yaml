@@ -8,3 +8,5 @@ all:
         vlan_id: 10
       - name: dmz
         vlan_id: 20
+      - name: sean
+        vlan_id: 60
