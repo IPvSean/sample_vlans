@@ -16,3 +16,5 @@ network:
         vlan_id: 1000
       - name: larry
         vlan_id: 1234
+      - name: asdf
+        vlan_id: 4000
