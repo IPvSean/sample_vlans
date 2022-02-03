@@ -18,3 +18,7 @@ net_vlan_config:
     vlan_id: 4000
   - name: dorajones
     vlan_id: 4001
+  - name: massimo
+    vlan_id: 4002
+  - name: andrew
+    vlan_id: 800
