@@ -16,3 +16,5 @@ net_vlan_config:
     vlan_id: 1234
   - name: asdf
     vlan_id: 4000
+  - name: dorajones
+    vlan_id: 4001
