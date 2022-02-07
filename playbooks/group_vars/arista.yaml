@@ -1,5 +1,5 @@
 ---
-vlan_state: overridden
+net_vlan_state: merged
 net_vlan_config:
   - name: desktops
     vlan_id: 5
@@ -7,3 +7,5 @@ net_vlan_config:
     vlan_id: 10
   - name: dmz
     vlan_id: 20
+  - name: feb7
+    vlan_id: 333
