@@ -1,5 +1,5 @@
 ---
-net_vlan_state: merged
+net_vlan_state: overridden
 net_vlan_config:
   - name: desktops
     vlan_id: 5
@@ -9,3 +9,7 @@ net_vlan_config:
     vlan_id: 20
   - name: feb7
     vlan_id: 333
+  - name: chapelhill
+    vlan_id: 444
+  - name: durham
+    vlan_id: 555    
