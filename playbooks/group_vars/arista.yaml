@@ -12,4 +12,6 @@ net_vlan_config:
   - name: chapelhill
     vlan_id: 444
   - name: durham
-    vlan_id: 555    
+    vlan_id: 555
+  - name: raleigh
+    vlan_id: 123
