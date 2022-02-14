@@ -11,3 +11,5 @@ net_vlan_config:
     vlan_id: 333
   - name: chapelhill
     vlan_id: 444
+  - name: boston
+    vlan_id: 1234
